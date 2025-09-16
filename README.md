@@ -1,4 +1,4 @@
-# 🚀 Solana Swap Tutorial
+# 🚀 Solana Token Swap Tutorial
 
 ![Solana](https://img.shields.io/badge/Solana-362D59?style=for-the-badge&logo=solana&logoColor=white)
 ![Jupiter](https://img.shields.io/badge/Jupiter-FF6B35?style=for-the-badge&logo=jupiter&logoColor=white)
@@ -221,21 +221,5 @@ This tutorial implements several Solana development best practices:
 - **Modular Design**: Separates concerns into distinct functions for better maintainability.
 - **TypeScript Support**: Offers a fully-typed version for enhanced developer experience and code reliability.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 💖 Support the Developer
-
-If you found this tutorial helpful and would like to support the development of more resources like this, consider tipping! Your contributions help keep the project alive and thriving.
-
-**Solana Wallet Address:** `jaDpUj6FzoQFtA5hCcgDwqnCFqHFcZKDSz71ke9zHZA`
-**ETH Wallet Address:** `0x96aca495621E93c884A8cb054bB823Bc273C29Bb`
-
-Thank you for your support!
-
-Happy swapping! If you have any questions or run into issues, please open an issue in the GitHub repository.
+## 🤝 Contact
+Telegram: [fivefingers](https://t.me/idioRusty)
